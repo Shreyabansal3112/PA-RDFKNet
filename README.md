@@ -1,7 +1,8 @@
 # PA-RDFKNet
 # PA-RDFKNet: Unifying Plant Age Estimation through RGB-Depth Fusion and Knowledge Distillation
 
-![PA-RDFKNet Architecture](https://via.placeholder.com/600x300) *(Optional: Add a diagram if available)*
+![tafe_abstract (1) - Shreya Bansal](https://github.com/user-attachments/assets/52660899-48f1-457a-87d1-fa4f26347245)
+
 
 ## Abstract
 Agriculture faces significant challenges in the 21st century due to resource scarcity. Artificial intelligence is being integrated with agriculture to address these challenges, unlocking new avenues for sustainability and innovation. A crucial agricultural practice is plant growth monitoring to detect stress early. Previous approaches used RGB and depth images, but depth cameras are often unavailable to farmers. 
@@ -13,6 +14,7 @@ In this work, we present **PA-RDFKNet**, a transformer-based **Plant Age RGB-Dep
 - 🧠 **Hybrid knowledge distillation**: Combines response-based, feature-based, and relation-based techniques.
 - 📊 **State-of-the-art performance**: Achieves significant improvement in plant age estimation accuracy.
 - 🌾 **Validated on multiple datasets**: Tested across three different plant datasets.
+![tafe_model](https://github.com/user-attachments/assets/52b344a9-607d-48b6-ba29-442d0289aa5d)
 
 ## Citation
 If you use this work, please cite:
