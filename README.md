@@ -13,7 +13,7 @@ In this work, we present **PA-RDFKNet**, a transformer-based **Plant Age RGB-Dep
 - 🌱 **Multi-modal to single-modal distillation**: Uses RGB-depth pairs during training but only RGB at inference.
 - 🧠 **Hybrid knowledge distillation**: Combines response-based, feature-based, and relation-based techniques.
 - 📊 **State-of-the-art performance**: Achieves significant improvement in plant age estimation accuracy.
-- 🌾 **Validated on multiple datasets**: Tested across three different plant datasets.
+- 🌾 **Validated on multiple source datasets**: Tested across three different sources.
 ![tafe_model](https://github.com/user-attachments/assets/52b344a9-607d-48b6-ba29-442d0289aa5d)
 
 ## Citation
